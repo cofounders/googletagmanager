@@ -6,6 +6,7 @@
     "name": "Sebastiaan Deckers",
     "email": "seb@ninja.sg"
   },
+  "main": "googletagmanager.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:cofounders/googletagmanager.git"
