@@ -20,13 +20,13 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt": "0.4.1",
-    "grunt-cli": "~0.1",
-    "grunt-contrib-jshint": "0.8.0",
-    "grunt-contrib-nodeunit": "0.2.2",
-    "load-grunt-config": "0.7.0",
-    "requirejs": "*",
-    "underscore": "*"
+    "grunt": "^0.4.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt-contrib-nodeunit": "^0.2.2",
+    "load-grunt-config": "^0.7.0",
+    "requirejs": "^2.1.18",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "keywords": [
