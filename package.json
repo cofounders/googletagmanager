@@ -1,7 +1,7 @@
 {
   "name": "googletagmanager",
   "description": "Google Tag Manager loader for web apps",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Sebastiaan Deckers",
     "email": "seb@ninja.sg"
@@ -11,9 +11,11 @@
     "type": "git",
     "url": "git@github.com:cofounders/googletagmanager.git"
   },
-  "licenses": [{
-    "type": "MIT"
-  }],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
   "scripts": {
     "test": "grunt test"
   },
@@ -26,8 +28,7 @@
     "requirejs": "*",
     "underscore": "*"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "google",
     "tag",
